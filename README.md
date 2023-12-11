@@ -1,6 +1,7 @@
 Ambient Soundscape Generator
 version 1.0
 
+download for windows or mac [here](https://github.com/dmpavlou/Ambient-Soundscape-Generator/releases)
 
 WHAT IS IT?
 Imagine an app that creates an entire soundscape around your favourite jingle, sound or piece of music.
