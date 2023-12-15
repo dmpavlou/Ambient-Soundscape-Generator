@@ -12,9 +12,10 @@ HOW IT WORKS:
      of the app. 
 2. Drag and drop your audio file. (.mp3, .wav, .aif, .aiff, .flac)
 3. Select and capture the essence of your soundscape by manually starting
-     and stopping the record button.  
+     and stopping the record button. 
      Be mindful to turn it off to avoid unnecessary silence!
-4. Click START and enjoy.
+     It is advised to capture around 3 seconds of sound as the essence of your soundscape, but feel free to experiment. 
+5. Click START and enjoy.
 
 SAVING THE RESULTS:
 As your soundscapes evolve in real-time, you might stumble upon a creation worth keeping. To save the results:
