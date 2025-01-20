@@ -4,6 +4,7 @@
 <a href="https://youtu.be/your_walkthrough_video_url_here" target="_blank">
   <img src="https://github.com/user-attachments/assets/dc2dfca2-9c2f-4cd1-9466-2021b245d33d" alt="App Walkthrough" width="500">
 </a> 
+<br> 
 *Click above to watch the full walkthrough video of the app in action.*
 
 ---
