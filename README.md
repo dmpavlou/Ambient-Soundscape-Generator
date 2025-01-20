@@ -1,7 +1,7 @@
 # Ambient Soundscape Generator  
 **Version 1.0**  
 
-[![App Walkthrough](https://github.com/user-attachments/assets/dc2dfca2-9c2f-4cd1-9466-2021b245d33d)](https://drive.google.com/file/d/1ABpY9OXXXMx7mG4rIoJjqSYmwdPMs_aL/view{:target="_blank"})
+[![App Walkthrough](https://github.com/user-attachments/assets/dc2dfca2-9c2f-4cd1-9466-2021b245d33d)](https://drive.google.com/file/d/1ABpY9OXXXMx7mG4rIoJjqSYmwdPMs_aL/view)
 *Click above to watch the full walkthrough video of the app in action.*
 
 ---
